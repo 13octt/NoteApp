@@ -1,10 +1,12 @@
-package com.application.noteapp;
+package com.application.noteapp.activity.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
+
+import com.application.noteapp.R;
 
 public class LoginAndRegisterActivity extends AppCompatActivity {
 
